@@ -1,1 +1,1 @@
-#!/bin/bash
+hello kedu ije nwoke oma
